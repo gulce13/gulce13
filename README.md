@@ -1,5 +1,5 @@
  Hi, I’m @gulce13 (she/her)
-Mostly working on phytoplankton imaging and classification model pipelines on python.
+mostly working on python pipelines for phytoplankton imaging and classification models.
 
 
 <!---
